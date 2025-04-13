@@ -1,6 +1,6 @@
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10419/badge)](https://www.bestpractices.dev/projects/10419)
+
 # wikipediatest
-[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/boetech127/wikipediatest/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/boetech127/wikipediatest)
+[![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/boetech127/wikipediatest/badge)]
 🛠 Contribution Guidelines
 Want to contribute? Great! We welcome contributions from the community.
 Before you start, please make sure to review our contribution requirements below.
