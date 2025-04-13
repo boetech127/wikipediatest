@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, **please report it privately** and **responsibly**.
 
-- **Contact:** [your-email@example.com]  
+- **Contact:** [bastosbrandon@gmail.com]  
 - **Do not** file a public issue.
 - We will respond within **5 business days** and work with you to assess and fix the issue.
 
