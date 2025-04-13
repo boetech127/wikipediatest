@@ -13,7 +13,7 @@ import java.time.Duration;
 import java.util.List;
 
 public class wikipedia_contribution extends wikipedia_start{
-    int counter = 0;
+    int counter = 4;
     @Test(priority = 0)
     void contribution_setup() throws InterruptedException{
         //setup from wikipedia page
